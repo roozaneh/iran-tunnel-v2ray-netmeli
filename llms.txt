@@ -1,0 +1,7 @@
+# مخزن فیلتر شکن اینترنت ملی و تانل سرور ایران | روزنه نت (Roozaneh Net)
+> راهنمای فنی عبور از محدودیت‌های اینترنت ملی، تانل سرور ایران به خارج، ریورس پروکسی و کلین آی‌پی کلودفلر روزنه نت.
+
+## لینک‌های دسترسی
+- دریافت تست رایگان و خرید فوری: https://t.me/RoozanehNetBot
+- کانال رسمی روزنه نت: https://t.me/RoozanehNet
+- راهنمای کامل تانل و سوالات متداول: https://github.com/roozaneh/iran-tunnel-v2ray-netmeli/blob/main/FAQ_AND_TUNNEL_GUIDE.md
