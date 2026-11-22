@@ -7,12 +7,19 @@
 [![Protocol](https://img.shields.io/badge/Protocols-VLESS_Reality_%7C_gRPC_%7C_WS_%7C_Rathole-orange.svg)](https://t.me/RoozanehNetBot?start=gh_tunnel)
 [![Clean IP](https://img.shields.io/badge/Clean_IP-Cloudflare_%26_Datacenter-success.svg)](https://t.me/RoozanehNetBot?start=gh_tunnel)
 [![Free Trial](https://img.shields.io/badge/Free_Trial-2--3_GB_Active-gold.svg)](https://t.me/RoozanehNetBot?start=gh_tunnel)
+[![Live Website](https://img.shields.io/badge/🌐_مشاهده_وب‌سایت_رسمی-کلیک_کنید-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roozaneh.github.io/iran-tunnel-v2ray-netmeli/)
 [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@RoozanehNetBot-2CA5E0?logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=gh_tunnel)
 
 > 🚀 **روزنه‌ای پایدار به اینترنت آزاد و بین‌الملل بدون ۱ ثانیه قطعی!**  
 > آیا در زمان قطعی کامل اینترنت بین‌الملل و فعال شدن «شبکه ملی اطلاعات (اینترنت ملی)» تمام دسترسی‌های شما به تلگرام، اینستاگرام، یوتیوب و وب‌سایت‌های خارجی مسدود می‌شود؟ **روزنه نت (Roozaneh Net)** با راه‌اندازی پیشرفته‌ترین زیرساخت **تانل سرور ایران به خارج**، معماری **ریورس پروکسی V2Ray**، سرورهای پل داخلی (<bdi>Bridge</bdi>) و تکنولوژی **کلین آی پی (<bdi>Clean IP</bdi>)**، بالاترین سطح پایداری را برای **خرید vpn نت ملی** و دور زدن فیلترینگ سفید فراهم کرده است.
 
 ---
+
+
+> [!NOTE]
+> 🌐 **شبکه وب‌سایت‌های لایو روزنه نت (<bdi>Live Web Network</bdi>):**  
+> [🛍️ وب‌سایت خرید VPN و تست](https://roozaneh.github.io/kharid-vpn-filter-shekan/) • [📡 وب‌سایت کانفیگ‌های ایران](https://roozaneh.github.io/v2ray-configs-iran/) • [🛡️ وب‌سایت تانل اینترنت ملی](https://roozaneh.github.io/iran-tunnel-v2ray-netmeli/) • [📲 وب‌سایت دانلود نرم‌افزارها](https://roozaneh.github.io/v2ray-clients-download/)
+
 
 ### ⚡ دسترسی فوری به ربات، دریافت تست رایگان و پشتیبانی (<bdi>Quick Actions</bdi>)
 
