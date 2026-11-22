@@ -5,7 +5,7 @@
 > این مستند تخصصی به بررسی معماری عبور از شبکه ملی اطلاعات (اینترانت داخلی)، ریورس تانل و سرورهای پل اختصاصی روزنه نت در زمان قطعی اینترنت بین‌الملل می‌پردازد.
 
 [![Telegram Bot](https://img.shields.io/badge/ربات_رسمی-@RoozanehNetBot-blue?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNetBot)
-[![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-فعال-brightgreen?style=for-the-badge)](https://t.me/RozanehaiSupportBot)
+[![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-فعال-brightgreen?style=for-the-badge)](https://t.me/RoozanehHelp)
 
 ---
 
