@@ -191,7 +191,7 @@ flowchart LR
 | 🟣 | **پلن حرفه‌ای VIP (<bdi>Pro</bdi>)** | **۷۵ گیگابایت** | ۳۰ روز | **۳۹۵,۰۰۰** | پهنای باند اختصاصی، مناسب گیمینگ، تریدرها و دورکاری |
 | 👑 | **پلن اختصاصی ۳ ماهه (<bdi>Custom</bdi>)** | **۱۵۰ گیگابایت** | ۹۰ روز | **۸۹۰,۰۰۰** | باصرفه‌ترین تعرفه به ازای هر گیگ با اولویت پشتیبانی |
 
-> 🛒 **خرید آنی:** برای ثبت سفارش و تحویل خودکار کانفیگ کمتر از ۳۰ ثانیه، به **[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=netmeli_tunnel)** مراجعه فرمایید.
+> 🛒 **خرید آنی:** برای ثبت سفارش و تحویل خودکار کانفیگ کمتر از ۳۰ ثانیه، به **[[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=netmeli_tunnel)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)** مراجعه فرمایید.
 
 ---
 
@@ -210,7 +210,7 @@ flowchart LR
 
 ### ۱. اتصال در اندروید با <bdi>v2rayNG</bdi>:
 1. نرم‌افزار رسمی را نصب نمایید ([دانلود آخرین نسخه v2rayNG از مخزن دانلود کلاینت‌ها](https://github.com/roozaneh/v2ray-clients-download)).
-2. وارد **[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=netmeli_tunnel)** شوید و کلید «تست رایگان» یا لینک سرویس خود را کپی کنید.
+2. وارد **[[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=netmeli_tunnel)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)** شوید و کلید «تست رایگان» یا لینک سرویس خود را کپی کنید.
 3. در صفحه اول برنامه روی علامت **+** بالای صفحه ضربه زده و گزینه **Import config from Clipboard** را انتخاب نمایید.
 4. روی دکمه دایره‌ای پایین صفحه لمس کنید تا دایره سبز شده و ترافیک آزاد بین‌الملل برقرار گردد.
 
@@ -262,7 +262,7 @@ flowchart LR
 
 <details>
 <summary><b>س۳: آیا قبل از خرید، کانفیگ تست رایگان ارائه می‌شود؟</b></summary>
-بله! ۲ الی ۳ گیگابایت کانفیگ پرسرعت تست رایگان بدون نیاز به پرداخت حتی یک ریال از طریق ربات تلگرام @RoozanehNetBot تحویل داده می‌شود.
+بله! ۲ الی ۳ گیگابایت کانفیگ پرسرعت تست رایگان بدون نیاز به پرداخت حتی یک ریال از طریق [ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=netmeli_tunnel) تحویل داده می‌شود.
 </details>
 
 <details>
