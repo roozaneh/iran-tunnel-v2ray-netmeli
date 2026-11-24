@@ -3,12 +3,12 @@
 # 🌐 فیلتر شکن اینترنت ملی و تانل سرور ایران به خارج | سرور ضد قطعی و ریورس تانل V2Ray روزنه نت (Roozaneh Net)
 
 [![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen.svg)](https://t.me/RoozanehNet)
-[![Server Status](https://img.shields.io/badge/Network-Iran_Bridge_%26_Reverse_Tunnel-blue.svg)](https://t.me/RoozanehNetBot?start=gh_tunnel)
-[![Protocol](https://img.shields.io/badge/Protocols-VLESS_Reality_%7C_gRPC_%7C_WS_%7C_Rathole-orange.svg)](https://t.me/RoozanehNetBot?start=gh_tunnel)
-[![Clean IP](https://img.shields.io/badge/Clean_IP-Cloudflare_%26_Datacenter-success.svg)](https://t.me/RoozanehNetBot?start=gh_tunnel)
-[![Free Trial](https://img.shields.io/badge/Free_Trial-2--3_GB_Active-gold.svg)](https://t.me/RoozanehNetBot?start=gh_tunnel)
+[![Server Status](https://img.shields.io/badge/Network-Iran_Bridge_%26_Reverse_Tunnel-blue.svg)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)
+[![Protocol](https://img.shields.io/badge/Protocols-VLESS_Reality_%7C_gRPC_%7C_WS_%7C_Rathole-orange.svg)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)
+[![Clean IP](https://img.shields.io/badge/Clean_IP-Cloudflare_%26_Datacenter-success.svg)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)
+[![Free Trial](https://img.shields.io/badge/Free_Trial-2--3_GB_Active-gold.svg)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)
 [![Live Website](https://img.shields.io/badge/🌐_مشاهده_وب‌سایت_رسمی-کلیک_کنید-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roozaneh.github.io/iran-tunnel-v2ray-netmeli/)
-[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@RoozanehNetBot-2CA5E0?logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=gh_tunnel)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@RoozanehNetBot-2CA5E0?logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)
 
 > 🚀 **روزنه‌ای پایدار به اینترنت آزاد و بین‌الملل بدون ۱ ثانیه قطعی!**  
 > آیا در زمان قطعی کامل اینترنت بین‌الملل و فعال شدن «شبکه ملی اطلاعات (اینترنت ملی)» تمام دسترسی‌های شما به تلگرام، اینستاگرام، یوتیوب و وب‌سایت‌های خارجی مسدود می‌شود؟ **روزنه نت (Roozaneh Net)** با راه‌اندازی پیشرفته‌ترین زیرساخت **تانل سرور ایران به خارج**، معماری **ریورس پروکسی V2Ray**، سرورهای پل داخلی (<bdi>Bridge</bdi>) و تکنولوژی **کلین آی پی (<bdi>Clean IP</bdi>)**، بالاترین سطح پایداری را برای **خرید vpn نت ملی** و دور زدن فیلترینگ سفید فراهم کرده است.
@@ -25,7 +25,7 @@
 
 | عملیات فوری | مسیر دسترسی سریع | توضیحات کلیدی |
 | :--- | :---: | :--- |
-| 🎁 **دریافت ۲ الی ۳ گیگابایت تست رایگان** | [ورود به ربات تلگرام روزنه نت ←](https://t.me/RoozanehNetBot?start=gh_tunnel) | دریافت فوری کانفیگ تست، سازگار با همراه اول، ایرانسل و وای‌فای |
+| 🎁 **دریافت ۲ الی ۳ گیگابایت تست رایگان** | [ورود به ربات تلگرام روزنه نت ←](https://t.me/RoozanehNetBot?start=netmeli_tunnel) | دریافت فوری کانفیگ تست، سازگار با همراه اول، ایرانسل و وای‌فای |
 | 💬 **پشتیبانی فنی و مشاوره قبل از خرید** | [ارتباط با منشی هوشمند و پشتیبانی فنی ←](https://t.me/RoozanehHelp) | پاسخ‌گویی ۲۴ ساعته، راهنمایی رفع اشکال و سوالات خرید اشتراک |
 | 📢 **کانال رسمی اطلاع‌رسانی وضعیت شبکه** | [عضویت در کانال تلگرام روزنه نت ←](https://t.me/RoozanehNet) | اطلاع‌رسانی لحظه‌ای از وضعیت پایداری سرورها، قرعه‌کشی‌ها و کلین آی‌پی‌ها |
 
@@ -34,7 +34,7 @@
 > [!TIP]
 > **🎁 تست رایگان قبل از خرید (<bdi>Risk-Free Trial</bdi>):**  
 > برای اینکه با اطمینان کامل پایداری نودهای تانل ایران به خارج را روی شبکه خود تست کنید، همین حالا **۲ تا ۳ گیگابایت تست رایگان** با سرعت نامحدود دریافت نمایید:  
-> 👉 **[ورود به ربات و دریافت فوری تست رایگان (@RoozanehNetBot)](https://t.me/RoozanehNetBot?start=gh_tunnel)**
+> 👉 **[ورود به ربات و دریافت فوری تست رایگان (@RoozanehNetBot)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)**
 
 > [!NOTE]
 > **🔄 ویژگی انحصاری «قانون عدم سوختن حجم مشترکین» (<bdi>Data Rollover</bdi>):**  
@@ -138,7 +138,7 @@ flowchart LR
 
 > [!TIP]
 > **🎁 همین حالا تست کنید:** برای اطمینان از عملکرد تانل روی خطوط اینترنت خود، می‌توانید بدون پرداخت وجه تست بگیرید.  
-> 👉 **[دریافت ۲ الی ۳ گیگابایت کانفیگ تست ریورس تانل روزنه (@RoozanehNetBot)](https://t.me/RoozanehNetBot?start=gh_tunnel)**
+> 👉 **[دریافت ۲ الی ۳ گیگابایت کانفیگ تست ریورس تانل روزنه (@RoozanehNetBot)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)**
 
 ---
 
@@ -191,7 +191,7 @@ flowchart LR
 | 🟣 | **پلن حرفه‌ای VIP (<bdi>Pro</bdi>)** | **۷۵ گیگابایت** | ۳۰ روز | **۳۹۵,۰۰۰** | پهنای باند اختصاصی، مناسب گیمینگ، تریدرها و دورکاری |
 | 👑 | **پلن اختصاصی ۳ ماهه (<bdi>Custom</bdi>)** | **۱۵۰ گیگابایت** | ۹۰ روز | **۸۹۰,۰۰۰** | باصرفه‌ترین تعرفه به ازای هر گیگ با اولویت پشتیبانی |
 
-> 🛒 **خرید آنی:** برای ثبت سفارش و تحویل خودکار کانفیگ کمتر از ۳۰ ثانیه، به **[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=gh_tunnel)** مراجعه فرمایید.
+> 🛒 **خرید آنی:** برای ثبت سفارش و تحویل خودکار کانفیگ کمتر از ۳۰ ثانیه، به **[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=netmeli_tunnel)** مراجعه فرمایید.
 
 ---
 
@@ -210,7 +210,7 @@ flowchart LR
 
 ### ۱. اتصال در اندروید با <bdi>v2rayNG</bdi>:
 1. نرم‌افزار رسمی را نصب نمایید ([دانلود آخرین نسخه v2rayNG از مخزن دانلود کلاینت‌ها](https://github.com/roozaneh/v2ray-clients-download)).
-2. وارد **[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=gh_tunnel)** شوید و کلید «تست رایگان» یا لینک سرویس خود را کپی کنید.
+2. وارد **[ربات تلگرام @RoozanehNetBot](https://t.me/RoozanehNetBot?start=netmeli_tunnel)** شوید و کلید «تست رایگان» یا لینک سرویس خود را کپی کنید.
 3. در صفحه اول برنامه روی علامت **+** بالای صفحه ضربه زده و گزینه **Import config from Clipboard** را انتخاب نمایید.
 4. روی دکمه دایره‌ای پایین صفحه لمس کنید تا دایره سبز شده و ترافیک آزاد بین‌الملل برقرار گردد.
 
@@ -306,7 +306,7 @@ flowchart LR
 
 همواره می‌توانید از طریق درگاه‌های رسمی زیر با مجموعه روزنه نت در تماس باشید:
 
-* 🤖 **ربات اصلی خرید و دریافت تست فوری:** [ربات رسمی روزنه نت (`@RoozanehNetBot`)](https://t.me/RoozanehNetBot?start=gh_tunnel)
+* 🤖 **ربات اصلی خرید و دریافت تست فوری:** [ربات رسمی روزنه نت (`@RoozanehNetBot`)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)
 * 🎧 **ربات هوشمند پشتیبانی و راهنمای فنی:** [پشتیبانی ۲۴ ساعته (`@RoozanehHelp`)](https://t.me/RoozanehHelp)
 * 📢 **کانال تلگرام رسمی اطلاع‌رسانی وضعیت سرورها:** [کانال تلگرام روزنه نت (`@RoozanehNet`)](https://t.me/RoozanehNet)
 * 💻 **مخزن رسمی پروژه در گیت‌هاب:** [مخزن تانل اینترنت ملی در گیت‌هاب](https://github.com/roozaneh/iran-tunnel-v2ray-netmeli)

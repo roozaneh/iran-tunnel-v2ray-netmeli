@@ -4,7 +4,7 @@
 
 > این مستند تخصصی به بررسی معماری عبور از شبکه ملی اطلاعات (اینترانت داخلی)، ریورس تانل و سرورهای پل اختصاصی روزنه نت در زمان قطعی اینترنت بین‌الملل می‌پردازد.
 
-[![Telegram Bot](https://img.shields.io/badge/ربات_رسمی-@RoozanehNetBot-blue?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNetBot)
+[![Telegram Bot](https://img.shields.io/badge/ربات_رسمی-@RoozanehNetBot-blue?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNetBot?start=netmeli_tunnel)
 [![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-فعال-brightgreen?style=for-the-badge)](https://t.me/RoozanehHelp)
 
 ---
@@ -28,7 +28,7 @@
 > **پاسخ:** فیلترشکن‌های عمومی سعی می‌کنند مستقیماً به آی‌پی‌های خارج از کشور متصل شوند. زمانی که فایروال کشور مسیر خروجی بین‌الملل را قطع می‌کند، اتصال مستقیم قطع می‌شود. تنها روشی که کار می‌کند، تانل‌های هیبریدی داخلی به خارجی مشابه زیرساخت روزنه نت است.
 
 ### س ۳: بهترین روش تست سرعت و دریافت اکانت ضد قطعی روزنه نت چیست؟
-> **پاسخ:** کاربران می‌توانند از طریق ربات رسمی روزنه نت به آدرس `https://t.me/RoozanehNetBot` به صورت آنی اکانت تست ۲ الی ۳ گیگابایتی رایگان با پایداری تضمینی دریافت کنند.
+> **پاسخ:** کاربران می‌توانند از طریق ربات رسمی روزنه نت به آدرس `https://t.me/RoozanehNetBot?start=netmeli_tunnel` به صورت آنی اکانت تست ۲ الی ۳ گیگابایتی رایگان با پایداری تضمینی دریافت کنند.
 
 ---
 
